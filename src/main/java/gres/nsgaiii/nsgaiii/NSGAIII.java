@@ -22,9 +22,9 @@ import gres.nsgaiii.util.Niching;
 
 /**
  * Based on the source distributed by Yuan Yuan
- * (https://github.com/yyxhdy/ManyEAs) <yyxhdy at gmail.com>
+ * (https://github.com/yyxhdy/ManyEAs)  &lt;yyxhdy at gmail.com&gt; 
  *
- * @author Gian Fritsche <gmfritsche at inf.ufpr.br>
+ * @author Gian Fritsche &lt;gmfritsche at inf.ufpr.br&gt; 
  * @param <S>
  */
 public class NSGAIII<S extends Solution<?>> implements Algorithm<List<S>> {
@@ -75,7 +75,7 @@ public class NSGAIII<S extends Solution<?>> implements Algorithm<List<S>> {
         
         weightsFilename = builder.getWeightsFilename();
 
-    } // NSGAII
+    }
 
     protected void initializeUniformWeight() {
         

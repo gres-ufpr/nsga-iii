@@ -14,7 +14,7 @@ import gres.nsgaiii.nsgaiii.NSGAIII;
 /**
  * NSGA-III
  * 
- * @author Gian Fritsche <gmfritsche@inf.ufpr.br>
+ * @author Gian Fritsche &lt;gmfritsche@inf.ufpr.br&gt;
  * @param <S>
  */
 public class NSGAIIIBuilder<S extends Solution<?>> implements AlgorithmBuilder<NSGAIII<S>> {

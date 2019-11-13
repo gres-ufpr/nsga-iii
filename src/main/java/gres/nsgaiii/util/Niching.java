@@ -10,7 +10,7 @@ import Jama.Matrix;
 
 /**
  *
- * @author Gian Fritsche <gmfritsche@inf.ufpr.br>
+ * @author Gian Fritsche &lt;gmfritsche at inf.ufpr.br&gt; 
  * @param <S>
  */
 public class Niching<S extends Solution> {
