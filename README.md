@@ -67,6 +67,15 @@ public class Explore {
     }
 }
 ```
+
+## For Developers
+	
+For generating a distributable version, run:
+	
+```sh
+mvn deploy
+```
+
 ## Original Paper
 
 Deb, Kalyanmoy, and Himanshu Jain. "**An evolutionary many-objective optimization algorithm using reference-point-based nondominated sorting approach, part I: solving problems with box constraints.**" IEEE Transactions on Evolutionary Computation 18, no. 4 (2013): 577-601.
