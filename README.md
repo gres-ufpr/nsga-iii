@@ -1,4 +1,4 @@
-# nsga-iii
+# NSGA-III
 
 The NSGA-III algorithm proposed by Deb and Jain (2013)
 
