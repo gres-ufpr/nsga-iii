@@ -36,3 +36,11 @@ Then add a dependency into tag of your pom.xml
 ## Original Paper
 
 Deb, Kalyanmoy, and Himanshu Jain. "**An evolutionary many-objective optimization algorithm using reference-point-based nondominated sorting approach, part I: solving problems with box constraints.**" IEEE Transactions on Evolutionary Computation 18, no. 4 (2013): 577-601.
+
+## Contributions
+
+Feel free to fork this project, work on it and then make a pull request.
+
+## Questions or Suggestions
+
+Feel free to create <a href="https://github.com/gres-ufpr/nsga-iii/issues">issues</a> here as you need
