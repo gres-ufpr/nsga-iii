@@ -2,6 +2,8 @@
 
 The NSGA-III algorithm proposed by Deb and Jain (2013)
 
+[![Build Status](https://travis-ci.org/gres-ufpr/nsga-iii.svg?branch=master)](https://travis-ci.org/gres-ufpr/nsga-iii)
+
 ## Source Code
 
 This project is based on https://github.com/yyxhdy/ManyEAs. Many thanks!
