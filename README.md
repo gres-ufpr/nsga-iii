@@ -4,7 +4,7 @@ The NSGA-III algorithm proposed by Deb and Jain (2013)
 
 ## Source Code
 
-This project is based on https://github.com/yyxhdy/ManyEAs. Thanks! =D
+This project is based on https://github.com/yyxhdy/ManyEAs. Many thanks!
 
 ## Original Paper
 
