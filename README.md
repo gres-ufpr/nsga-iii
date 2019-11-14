@@ -31,9 +31,9 @@ Then add a dependency into tag of your pom.xml
 
 ```xml
 <dependency>
-	<groupId>gres.nsgaiii</groupId>
-	<artifactId>nsga-iii</artifactId>
-	<version>1.0.0</version>
+    <groupId>gres.nsgaiii</groupId>
+    <artifactId>nsga-iii</artifactId>
+    <version>1.0.0</version>
 </dependency>
 ```
 
