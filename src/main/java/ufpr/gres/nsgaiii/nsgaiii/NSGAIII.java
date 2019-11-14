@@ -1,4 +1,4 @@
-package gres.nsgaiii.nsgaiii;
+package ufpr.gres.nsgaiii.nsgaiii;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -17,8 +17,8 @@ import org.uma.jmetal.util.SolutionListUtils;
 import org.uma.jmetal.util.solutionattribute.Ranking;
 import org.uma.jmetal.util.solutionattribute.impl.DominanceRanking;
 
-import gres.nsgaiii.builder.NSGAIIIBuilder;
-import gres.nsgaiii.util.Niching;
+import ufpr.gres.nsgaiii.builder.NSGAIIIBuilder;
+import ufpr.gres.nsgaiii.util.Niching;
 
 /**
  * Based on the source distributed by Yuan Yuan

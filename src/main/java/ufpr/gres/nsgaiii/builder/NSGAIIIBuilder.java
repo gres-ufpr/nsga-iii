@@ -1,4 +1,4 @@
-package gres.nsgaiii.builder;
+package ufpr.gres.nsgaiii.builder;
 
 import java.util.List;
 
@@ -9,7 +9,7 @@ import org.uma.jmetal.problem.Problem;
 import org.uma.jmetal.solution.Solution;
 import org.uma.jmetal.util.AlgorithmBuilder;
 
-import gres.nsgaiii.nsgaiii.NSGAIII;
+import ufpr.gres.nsgaiii.nsgaiii.NSGAIII;
 
 /**
  * NSGA-III

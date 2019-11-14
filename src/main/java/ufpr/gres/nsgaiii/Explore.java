@@ -1,4 +1,4 @@
-package gres.nsgaiii;
+package ufpr.gres.nsgaiii;
 
 import java.util.Arrays;
 import java.util.List;
@@ -16,7 +16,7 @@ import org.uma.jmetal.problem.multiobjective.zdt.ZDT3;
 import org.uma.jmetal.solution.DoubleSolution;
 import org.uma.jmetal.util.AlgorithmRunner;
 
-import gres.nsgaiii.builder.NSGAIIIBuilder;
+import ufpr.gres.nsgaiii.builder.NSGAIIIBuilder;
 
 public class Explore {
 

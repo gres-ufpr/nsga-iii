@@ -1,4 +1,4 @@
-package gres.nsgaiii.util;
+package ufpr.gres.nsgaiii.util;
 
 import java.util.ArrayList;
 import java.util.List;
